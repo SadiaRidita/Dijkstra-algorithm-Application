@@ -1,1 +1,1 @@
-# Algorithm-Lab-Dijkstra
+Dijkstra-algorithm-Application
